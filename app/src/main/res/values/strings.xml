@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNous</string>
+    <string name="start">Start</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="view_details">View Details</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>
