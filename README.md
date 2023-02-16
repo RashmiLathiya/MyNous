@@ -1,9 +1,9 @@
-# Android Developer Assessment Test
+# Fetch JSON data from Assets file
 
 ## Project Title
 >MyNous 
 
-## Test Requirements  
+## Requirements  
 1. The application should load a JSON from
 https://cloud.nousdigital.net/s/Njedq4WpjWz4KKk/download
 The JSON includes an array of objects consisting of an imageURL, a title, and a description.
